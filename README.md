@@ -1,2 +1,2 @@
 # PyClicker
-Yeah
+Clicker game made in PyGame
